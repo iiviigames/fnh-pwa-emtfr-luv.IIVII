@@ -58,5 +58,8 @@ var $plugins =
 {"name":"HIME_ConditionalChoiceText","status":true,"description":"v1.1 - Allows you to dynamically set the text for each choice\r\nin your events.","parameters":{}},
 {"name":"physical_attack_animation","status":true,"description":"Characters draw weapons when using physical skills.\n(or any skills you configure)","parameters":{"PhysicalAttacks":"false","SkillTypes":"4"}},
 {"name":"WeaponSkill","status":true,"description":"Change skill id of attack for each weapon.","parameters":{}},
-{"name":"Olivia_MetaControls","status":true,"description":"<MetaControls> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Common Event on New Game":"0","Common Event on Load":"0","Variables on Save":"","Map ID":"0","Map X":"0","Map Y":"0"}}
+{"name":"Olivia_MetaControls","status":true,"description":"<MetaControls> for RPG Maker MV version 1.6.1.","parameters":{"":"","ATTENTION!!!":"READ THE HELP FILE","Common Event on New Game":"0","Common Event on Load":"0","Variables on Save":"","Map ID":"0","Map X":"0","Map Y":"0"}},
+{"name":"IIVII_WebAudioFix","status":true,"description":"Recovers iOS audio after interruptions; caches short sound effects.","parameters":{}},
+{"name":"IIVII_TouchControls","status":false,"description":"Customizable on-screen touch controls (Auto/On/Off).","parameters":{}},
+{"name":"IIVII_TouchControls_v2","status":true,"description":"Customizable Menu Grid for Touch Input Control Overlayss (Auto/On/Off).","parameters":{}}
 ];
